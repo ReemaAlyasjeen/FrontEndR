@@ -1,0 +1,47 @@
+body {
+
+    background-color: gray;
+
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .left-section {
+    width: 30%;
+    margin-right: 20px;
+    
+   
+  }
+  .right-section {
+    width: 70%;
+  }
+  .profile-image {
+    max-width: 60%;
+    height: 50%;
+    border-radius: 50%;
+
+
+  }
+  .section {
+    margin-bottom: 20px;
+    
+  }
+  .section h4 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+  }
+  .section p {
+    margin-bottom: 5px;
+  }
+  .section ul {
+    list-style-type: square inside;
+    padding-left: 0;
+  }
+  .section ul li {
+    margin-bottom: 5px;
+  }
+ 
